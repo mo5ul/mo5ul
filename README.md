@@ -9,7 +9,6 @@ I build backend systems and full-stack applications, with a focus on performance
 ## ABOUT ME
 
 - Third-year Computer Science student based in Kolkata, India
-- Aspiring **Full-Stack / Backend Software Engineer**
 - Interested in database internals, backend architecture, and scalable web systems
 - Enjoy building things from first principles to understand how they really work
 - Continuously learning, with a focus on systems programming and data-intensive applications
@@ -37,7 +36,6 @@ I build backend systems and full-stack applications, with a focus on performance
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
