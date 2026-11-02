@@ -2,7 +2,7 @@
 
 **Computer Science Student | Backend Engineering | Full-Stack Development**
 
-I design and build backend systems and full-stack applications, from database storage engines written from scratch to transactional booking platforms.
+I build backend systems and full-stack applications, with a focus on performance, correctness, and clean architecture. I work comfortably from low-level storage internals up to production-style web platforms.
 
 ---
 
@@ -79,7 +79,7 @@ A lightweight embedded database built from scratch in **Java 21**, using an LSM-
 
 **Stack:** Java 21 • Maven
 
-[View Project](https://github.com/mo5ul/JavaDB)
+[View Project](https://github.com/mo5ul/JaveDB)
 
 ---
 
